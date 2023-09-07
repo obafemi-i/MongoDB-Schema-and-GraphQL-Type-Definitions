@@ -1,0 +1,17 @@
+{
+  "name": "mongodb-schema-and-graphql-type-definitions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "graphql": "^16.8.0",
+    "mongoose": "^7.5.0"
+  }
+}
